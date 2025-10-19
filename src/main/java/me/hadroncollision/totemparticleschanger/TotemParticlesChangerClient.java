@@ -14,3 +14,4 @@ public class TotemParticlesChangerClient implements ClientModInitializer
     {
     }
 }
+
